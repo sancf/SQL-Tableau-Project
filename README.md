@@ -1,8 +1,3 @@
 # SQL-Tableau-Project
-Este proyecto está compuesto por un conjunto de consultas SQL server con el objetivo de analizar un conjunto de datos relacionados al Covid-19 entre los años 2020 y 2023 a nivel global. Las consultas se encuentran en el archivo "Queries". 
-El conjunto de datos se puede encontrar en el archivo Excel con el nombre "dataset", localizado en este mismo repositorio. 
-Para probar las consultas, este archivo Excel debe ser importado como una tabla SQL. 
-El conjunto de datos fue extraído del sitio web de "Our World in Data": https://ourworldindata.org/covid-deaths
-Los resultados de las últimas 4 consultas del archivo "Queries" fueron utilizados para crear gráficos en Tableau. Los archivos de cada gráfico
-se pueden encontrar también en este mismo repositorio en formato ".twbx". 
+This project consists of a set of SQL Server queries aimed at analyzing a dataset related to Covid-19 from the years 2020 to 2023 at a global level. The queries are located in the "Queries.sql" file. The dataset can be found in the Excel file named "dataset", located in this same repository. To test the queries, this Excel file must be imported as a SQL table. The dataset was extracted from the "Our World in Data" website: https://ourworldindata.org/covid-deaths. The results of the last 4 queries from the "Queries" file were used to create charts in Tableau. The files for each chart can also be found in this same repository in ".twbx" format.
 
